@@ -1,0 +1,3 @@
+C:/Users/Darya/CLionProjects/ibc/cmake-build-debug/CMakeFiles/ibc.dir
+C:/Users/Darya/CLionProjects/ibc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Darya/CLionProjects/ibc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
